@@ -1,0 +1,11 @@
+{
+  "python": "Python 3.12.8",
+  "ffmpeg": "ffmpeg version 9.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+  "ffprobe": "ffprobe version 9.0.2-essentials_build-www.gyan.dev Copyright (c) 2007-2026 the FFmpeg developers",
+  "ffmpeg_path": "D:\\my-workspace\\ai-workspace\\zhongqiang\\CC_Codex 用户反馈标注(领域专项)项目\\选题\\003_多时间基音视频确定性渲染\\准备记录\\ffmpeg\\ffmpeg-9.0.2-essentials_build\\bin\\ffmpeg.exe",
+  "ffprobe_path": "D:\\my-workspace\\ai-workspace\\zhongqiang\\CC_Codex 用户反馈标注(领域专项)项目\\选题\\003_多时间基音视频确定性渲染\\准备记录\\ffmpeg\\ffmpeg-9.0.2-essentials_build\\bin\\ffprobe.exe",
+  "download": "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip",
+  "zip_sha256": "60f467265b1e312373dbcd92200c2618a74850f98d3d078e94296bb3fa2047ba",
+  "platform": "Windows native; CPU software encoding",
+  "sandbox_probe": "PASS: explicit workspace-write; file IO, SQLite, loopback bind, subprocess; no model request"
+}
